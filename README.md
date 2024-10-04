@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vakkas1234)
-I'm Emre.I'm a frontend developer.I'm making a website and game. Enjoy my codes. I know javascript html css and Alpine.js
+I'm Emre.I'm a frontend developer.I'm making a website and game. Enjoy my codes. I know javascript html css  Alpine.js and bootstrap
 My gmail: vakkasemrecontact@gmail.com
 <!--
 **vakkas1234/vakkas1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
