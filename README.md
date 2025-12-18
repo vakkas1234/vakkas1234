@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vakkas1234)
-Yazılımla ilgilenen birisi, @Pusula-Roket-Takimi
+Yazılımla ilgilenen birisi, JavaScript Seven birisi @Pusula-Roket-Takimi
 <!--11
 **vakkas1234/vakkas1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
